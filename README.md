@@ -7,9 +7,9 @@ Discord bot coded in python used by discord.py. The bot is used to nuke discord 
 - Download python > Then open cmd prompt (make sure you open cmd in the same directory) > Then type 'pip install -r requirements.txt'
 
 # Commands:
-`kall`              | Kicks all the members in the discord server.
-ball              | Bans all the members in the discord server.
-rall [rename-to]   Renames all members in discord!
-mall - Mass DM all members in discord!
-deall - Deletes all emojis in discord!
-addc - Creates a bunch of channels!
+- `kall`              | Kicks all the members in the discord server.
+- `ball`              | Bans all the members in the discord server.
+- `rall [rename-to]`  | Renames all members in discord!
+- `mall`              | Mass DM all members in discord!
+- `deall`             | Deletes all emojis in discord!
+- `addc`              | Creates a bunch of channels!
